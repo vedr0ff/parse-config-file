@@ -1,0 +1,15 @@
+{
+    "resolution": [
+        1280,
+        1024
+    ],
+    "bitrate": 2048,
+    "fps": 25,
+    "iFrameInterval": 20,
+    "codec": "H.264",
+    "audio": {
+        "enabled": true,
+        "codec": "G711A",
+        "inputVolume": 7
+    }
+}
